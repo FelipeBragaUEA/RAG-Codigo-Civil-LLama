@@ -1,0 +1,6 @@
+venv/
+venv_demo/
+model/faiss_index/
+__pycache__/
+.streamlit/
+.env
